@@ -1,0 +1,1197 @@
+# Translation of Themes - Cenote in Vietnamese
+# This file is distributed under the same license as the Themes - Cenote package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-25 16:51:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Cenote\n"
+
+#. Description of the theme
+msgid "Cenote is beautifully designed clean WordPress blog theme. Easy to setup and has a nice set of features that make your site stand out. It is suitable for personal, fashion, food, travel, business, professional, niche and any kind of blogging sites. Comes with various demos for various purposes, which you can easily import with the help of ThemeGrill Demo Importer plugin."
+msgstr "Cenote là giao diện tuyệt đẹp được thiết kế cho các blog. Với sự dễ dàng cài đặt và nhiều tính năng, nó sẽ giúp website của bạn nổi bật. Không chỉ vậy, đây cũng là lựa chọn hợp lý cho các website từ cá nhân, thời trang, đồ ăn, du lịch, kinh doanh, giới thiệu sản phẩm và bất kì kiểu blog nào khác. Bạn cũng dễ dàng tham khảo nhiều bản demo cho một số kiểu, nhập dữ liệu mẫu với sự trợ giúp của plugin ThemeGrill Demo Importer."
+
+#. Theme Name of the theme
+#: inc/demo-config.php:25 inc/admin/class-cenote-welcome-notice.php:54
+msgid "Cenote"
+msgstr "Cenote"
+
+#: inc/customizer/options/options-archive.php:52
+#: inc/customizer/options/options-single.php:41
+msgid "Makes the first letter of the content bigger"
+msgstr "Làm chữ cái đầu tiên lớn hơn"
+
+#: inc/customizer/options/options-header.php:80
+msgid "Email Address"
+msgstr "Địa chỉ email"
+
+#: inc/customizer/options/options-header.php:50
+msgid "Phone Number"
+msgstr "Điện thoại"
+
+#: inc/customizer/options/options-header.php:33
+msgid "Contact Info"
+msgstr "Thông tin liên hệ"
+
+#. Template Name of the theme
+msgid "Cover Style"
+msgstr "Cover Style"
+
+#: template-parts/related/related-post.php:35
+msgid "Related Posts"
+msgstr "Bài liên quan"
+
+#: template-parts/pagination/pagination.php:29
+msgid "Previous"
+msgstr "Trước đây"
+
+#: template-parts/pagination/pagination.php:28
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: template-parts/pagination/pagination.php:17
+msgid "Posts Navigation"
+msgstr "Chuyển bài"
+
+#: template-parts/footer/search-form.php:14
+msgid "Begin typing your search term above and press enter to search. Press ESC to cancel."
+msgstr "Bắt đầu nhập từ khoá bên trên và nhấp enter để tìm kiếm. Nhấn ESC để huỷ."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:52
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-single-cover.php:48
+#: template-parts/content-single-video.php:48
+#: template-parts/content-page.php:32 template-parts/content-single-link.php:43
+#: template-parts/content-single-quote.php:21
+#: template-parts/content-single-audio.php:48
+#: template-parts/content-single-gallery.php:64
+#: template-parts/content-single.php:54
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ nội dung này không tồn tại. Hãy thử chức năng tìm kiếm."
+
+#: template-parts/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có kết quả nào phù hợp với từ khoá của bạn. Hãy thử lại với từ khoá khác."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Muốn đăng bài viết đầu tiên không? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: template-parts/content-gallery.php:53 template-parts/content.php:68
+#: template-parts/content-video.php:35 template-parts/content-search.php:34
+#: template-parts/content-audio.php:35 template-parts/content-quote.php:29
+#: template-parts/content-link.php:28
+msgid "Read More"
+msgstr "Xem tiếp"
+
+#: template-parts/author/author-box.php:47
+msgid "Posts created"
+msgstr "Bài viết đã được tạo"
+
+#: template-parts/author/author-box.php:40
+msgid "Website"
+msgstr "Website"
+
+#: single.php:23 template-parts/content-single-cover.php:63
+msgid "Next Article"
+msgstr "Bài tiếp theo"
+
+#: single.php:22 template-parts/content-single-cover.php:62
+msgid "Previous Article"
+msgstr "Bài kế trước"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:133
+msgid "Display post date?"
+msgstr "Hiển thị ngày tạo bài viết?"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:127
+msgid "Number of posts to show:"
+msgstr "Số bài hiển thị:"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:122
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:75
+msgid "(no title)"
+msgstr "(chưa có tiêu đề)"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:40
+msgid "Recent Posts"
+msgstr "Bài viết mới nhất"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:24
+msgid "TG: Recent Posts"
+msgstr "TG: Bài viết mới nhất"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:21
+msgid "Shows recent posts with an image"
+msgstr "Xem bài viết gần nhất có ảnh"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:47 inc/template-tags.php:97
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sửa <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:80
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Viết bình luận<span class=\"screen-reader-text\"> trong %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:70
+msgid "Tagged: %1$s"
+msgstr "Tag: %1$s"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:64
+msgid "Category: %1$s"
+msgstr "Chuyên mục: %1$s"
+
+#: inc/template-functions.php:91
+msgid "Back To Top"
+msgstr "Trở lên trên"
+
+#: inc/meta-boxes.php:36
+msgid "Right Sidebar"
+msgstr "Cột bên phải"
+
+#: inc/meta-boxes.php:35
+msgid "Left Sidebar"
+msgstr "Cột bên trái"
+
+#: inc/meta-boxes.php:34
+msgid "Full Width"
+msgstr "Không cột bên"
+
+#: inc/meta-boxes.php:12
+msgid "Choose Layout"
+msgstr "Chọn bố cục"
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Lưu ý quan trọng về nâng cấp:"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#. translators: The title.
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "Tuỳ biến &#9656; %s"
+
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "Tuỳ biến"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: inc/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Lỗi ở mục nhập %1$s. Biến \"mode\" đã bị vô hiệu hoá kể từ phiên bản Kirki v0.8. Sử dụng thay thế bằng \"radio-%2$s\"."
+
+#: inc/kirki/field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Đừng sử dụng \"alpha\" như một biến. Hãy sử dụng \"choices[alpha]\"."
+
+#: inc/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s hoặc %2$s"
+
+#: inc/kirki/core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Các mục nhập của Kirki không nên thêm vào customize_register. Vui lòng thêm vào trực tiếp, hoặc qua init."
+
+#: inc/kirki/core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "Bạn đang sử dụng Kirki_Init::get_variables(). Hãy thay thế bằng Kirki_Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:498
+#: inc/kirki/core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" format không hợp lệ trong mục nhập %s. Biến đầu ra nên được xác định là một tập hợp array của array."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" nội dung không hợp lệ trong mục %s"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Lỗi chính tả được tìm thấy trong mục %s - \"theme_mods\" và \"theme_mod\""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/core/class-kirki-field.php:257
+#: inc/kirki/core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Không tìm thấy cấu hình cho mục nhập %1$s - Xem %2$s để biết thêm làm thế nào thêm mục nhập hợp lệ."
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Lỗi chính tả được tim thấy trong mục %s - setting thay vì settings."
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "Margin Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "Margin Top"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "Line-Through"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "Overline"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "Underline"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "Text Decoration"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:180
+#: inc/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "Initial"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Lowercase"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Uppercase"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "Capitalize"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:176
+#: inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "None"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Text Transform"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "Justify"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:139
+#: inc/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Inherit"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Text Align"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Variant"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Backup Font"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:83
+#: inc/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Chọn font chữ"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Font chữ"
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:56
+#: inc/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "Tắt"
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:52
+#: inc/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "Bật"
+
+#: inc/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Reset"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Đổi file"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Thêm file"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Đổi ảnh"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Thêm ảnh"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Chưa chọn ảnh nào"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Giới hạn: %s dòng"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Chọn một trang"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Thêm mới %s"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "dòng"
+
+#: inc/kirki/controls/views/image.php:40
+#: inc/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "Chọn ảnh"
+
+#: inc/kirki/controls/views/image.php:38
+#: inc/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "Chưa chọn ảnh nào"
+
+#: inc/kirki/controls/views/image.php:35
+#: inc/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "Đổi ảnh"
+
+#: inc/kirki/controls/views/image.php:34 inc/kirki/controls/views/image.php:39
+#: inc/kirki/field/class-kirki-field-image.php:47
+#: inc/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "Chọn ảnh"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Chiều dài"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Chiều cao"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Kích thước"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "Chính giữa"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:157
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Phải"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/controls/php/class-kirki-control-typography.php:145
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Trái"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Dưới"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Trên"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "Khoảng cách từ"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Khoảng cách chữ"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Kiểu font"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Chiều cao dòng"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Độ đậm của chữ"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:41
+msgid "Invalid Value"
+msgstr "Giá trị không hợp lệ"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Font Google"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Font cơ bản"
+
+#: inc/meta-boxes.php:37
+#: inc/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/kirki/controls/views/image.php:36
+#: inc/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Fixed"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Tự động"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Contain"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Background Size"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+msgid "Center Bottom"
+msgstr "Center Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+msgid "Center Center"
+msgstr "Center Center"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+msgid "Center Top"
+msgstr "Center Top"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+msgid "Right Bottom"
+msgstr "Right Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+msgid "Right Center"
+msgstr "Right Center"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+msgid "Right Top"
+msgstr "Right Top"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+msgid "Left Bottom"
+msgstr "Left Bottom"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+msgid "Left Center"
+msgstr "Left Center"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+msgid "Left Top"
+msgstr "Left Top"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Background Position"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Chọn File"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:386
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:418
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:443
+#: inc/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/kirki/controls/views/image.php:37
+#: inc/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Gỡ bỏ"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:408
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:413
+#: inc/kirki/controls/php/class-kirki-control-base.php:132
+msgid "No File Selected"
+msgstr "Chưa chọn File nào"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Background Color"
+
+#: inc/demo-config.php:29
+msgid "Cenote Fashion"
+msgstr "Thời trang"
+
+#: inc/customizer/options/options-typography.php:44
+msgid "Heading"
+msgstr "Heading"
+
+#: inc/customizer/options/options-typography.php:13
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/options/options-social.php:58
+msgid "Social Link URL"
+msgstr "Đường dẫn mạng xã hội"
+
+#: inc/customizer/options/options-social.php:53
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/options/options-social.php:52
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/customizer/options/options-social.php:51
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer/options/options-social.php:50
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/options-social.php:49
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer/options/options-social.php:48
+msgid "Quora"
+msgstr "Quora"
+
+#: inc/customizer/options/options-social.php:47
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/options/options-social.php:46
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/options/options-social.php:45
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/options/options-social.php:44
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/options/options-social.php:43
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer/options/options-social.php:42
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/options/options-social.php:41
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer/options/options-social.php:40
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: inc/customizer/options/options-social.php:39
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customizer/options/options-social.php:38
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/customizer/options/options-social.php:37
+msgid "Blogger"
+msgstr "Blogger"
+
+#: inc/customizer/options/options-social.php:36
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customizer/options/options-social.php:32
+msgid "Social Icon"
+msgstr "Biểu tượng"
+
+#: inc/customizer/options/options-social.php:17
+msgid "Social Profile"
+msgstr "Tài khoản mạng xã hội"
+
+#: inc/customizer/options/options-social.php:11
+msgid "Add Social Profile"
+msgstr "Thêm tài khoản"
+
+#: inc/customizer/options/options-single.php:63
+msgid "Enable Related Posts"
+msgstr "Hiển thị bài viết liên quan"
+
+#: inc/customizer/options/options-single.php:52
+msgid "Enable Author Box"
+msgstr "Hiển thị giới thiệu tác giả cuối bài viết"
+
+#: inc/customizer/options/options-single.php:26
+#: inc/customizer/options/options-post-slider.php:52
+#: inc/customizer/options/options-post-ribbon.php:28
+#: inc/customizer/options/options-post-ribbon.php:53
+msgid "Categories"
+msgstr "Chuyên mục"
+
+#: inc/customizer/options/options-single.php:13
+msgid "Single Post Content Order"
+msgstr "Thứ tự nội dung bài viết"
+
+#: inc/customizer/options/options-page.php:13
+msgid "Page Content Order"
+msgstr "Thứ tự nội dung trang"
+
+#: inc/customizer/options/options-layout.php:62
+msgid "Page Layout"
+msgstr "Bố cục trang"
+
+#: inc/customizer/options/options-layout.php:45
+msgid "Single Post Layout"
+msgstr "Bố cục bài viết"
+
+#: inc/customizer/options/options-layout.php:28
+msgid "Archive/Blog Layout"
+msgstr "Bố cục lưu trữ/danh mục"
+
+#: inc/customizer/options/options-layout.php:13
+msgid "Site Layout"
+msgstr "Bố cục chung"
+
+#: inc/customizer/options/options-header.php:137
+msgid "Enable Search Icon"
+msgstr "Bật nút Tìm kiếm"
+
+#: inc/customizer/options/options-header.php:121
+msgid "Header Layout"
+msgstr "Bố cục đầu trang"
+
+#: inc/customizer/options/options-header.php:110
+msgid "Enable Sticky Header"
+msgstr "Cho phép đầu trang luôn trên cùng"
+
+#: inc/customizer/options/options-header.php:32
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/options/options-header.php:24
+msgid "Header Top Item Order"
+msgstr "Thứ tự đối tượng đầu trang"
+
+#: inc/customizer/options/options-header.php:13
+msgid "Enable Header Top Bar"
+msgstr "Bật Top bar đầu trang"
+
+#: inc/customizer/options/options-header-media.php:114
+msgid "Button URL"
+msgstr "Button URL"
+
+#: inc/customizer/options/options-header-media.php:89
+msgid "Button Text"
+msgstr "Button Text"
+
+#: inc/customizer/options/options-header-media.php:64
+msgid "Text"
+msgstr "Chữ"
+
+#: inc/customizer/options/options-header-media.php:24
+msgid "Header Media Layout"
+msgstr "Bố cục Media đầu trang"
+
+#: inc/customizer/options/options-header-media.php:13
+msgid "Enable media info box"
+msgstr "Bật khung thông tin Media"
+
+#: inc/customizer/options/options-footer.php:28
+msgid "Enable Back To Top"
+msgstr "Bật nút Trở lên đầu trang"
+
+#: inc/customizer/options/options-footer.php:13
+msgid "Footer Style"
+msgstr "Kiểu cuối trang"
+
+#: inc/customizer/options/options-color.php:13
+msgid "Primary Color"
+msgstr "Màu chính"
+
+#: inc/customizer/options/options-breadcrumb.php:13
+msgid "Enable Breadcrumbs"
+msgstr "Bật chỉ dẫn"
+
+#: inc/customizer/options/options-page.php:25
+#: inc/customizer/options/options-archive.php:78
+#: inc/customizer/options/options-single.php:29
+msgid "Content"
+msgstr "Nội dung"
+
+#: inc/customizer/options/options-page.php:23
+#: inc/customizer/options/options-archive.php:77
+#: inc/customizer/options/options-header-media.php:39
+#: inc/customizer/options/options-single.php:27
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/options/options-archive.php:76
+#: inc/customizer/options/options-single.php:28
+msgid "Meta Tags"
+msgstr "Thẻ Meta"
+
+#: inc/customizer/options/options-page.php:24
+#: inc/customizer/options/options-archive.php:75
+#: inc/customizer/options/options-single.php:25
+msgid "Thumbnail"
+msgstr "Ảnh thu nhỏ"
+
+#: inc/customizer/options/options-page.php:14
+#: inc/customizer/options/options-archive.php:65
+#: inc/customizer/options/options-header.php:25
+#: inc/customizer/options/options-social.php:12
+#: inc/customizer/options/options-single.php:14
+msgid "Drag & Drop items to re-arrange the order"
+msgstr "Kéo và thả đối tượng để sắp xếp lại thứ tự"
+
+#: inc/customizer/options/options-archive.php:64
+msgid "Post Content Order"
+msgstr "Thứ tự nội dung bài viết"
+
+#: inc/customizer/options/options-archive.php:51
+#: inc/customizer/options/options-single.php:40
+msgid "Enable Drop Cap"
+msgstr "Bật chữ cái đầu lớn"
+
+#: inc/customizer/options/options-archive.php:34
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/options/options-archive.php:33
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/options/options-archive.php:29
+msgid "Post Column"
+msgstr "Cột bài viết"
+
+#: inc/customizer/options/options-archive.php:13
+msgid "Archive/Blog Style"
+msgstr "Kiểu lưu trữ/chuyên mục"
+
+#: inc/customizer/options/options-page.php:26
+#: inc/customizer/options/options-archive.php:79
+#: inc/customizer/options/options-single.php:30
+#: inc/customizer/kirki-customizer.php:147
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: inc/customizer/kirki-customizer.php:129
+msgid "Single Post"
+msgstr "Bài viết"
+
+#: template-parts/pagination/pagination.php:27
+#: inc/customizer/kirki-customizer.php:120
+msgid "Page"
+msgstr "Trang"
+
+#: inc/customizer/kirki-customizer.php:111
+msgid "Archive/Blog"
+msgstr "Lưu trữ/Chuyên mục"
+
+#: inc/customizer/kirki-customizer.php:102
+msgid "Typography"
+msgstr "Định dạng font chữ"
+
+#: inc/customizer/kirki-customizer.php:93
+msgid "Layout"
+msgstr "Bố cục"
+
+#: inc/customizer/kirki-customizer.php:84
+msgid "Breadcrumbs"
+msgstr "Chỉ mục"
+
+#: inc/customizer/kirki-customizer.php:66
+#: inc/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Màu"
+
+#: inc/customizer/kirki-customizer.php:57
+msgid "Header"
+msgstr "Đầu trang"
+
+#: inc/customizer/kirki-customizer.php:48
+msgid "Top Header Bar"
+msgstr "Top đầu trang"
+
+#: inc/customizer/kirki-customizer.php:39
+msgid "Social"
+msgstr "Mạng xã hội"
+
+#: inc/customizer/kirki-customizer.php:32
+msgid "Theme Options"
+msgstr "Tuỳ chọn giao diện"
+
+#: inc/compatibility/class-breadcrumb-trail.php:804
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/compatibility/class-breadcrumb-trail.php:776
+#: inc/compatibility/class-breadcrumb-trail.php:1216
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/compatibility/class-breadcrumb-trail.php:775
+#: inc/compatibility/class-breadcrumb-trail.php:843
+#: inc/compatibility/class-breadcrumb-trail.php:1214
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/compatibility/class-breadcrumb-trail.php:774
+#: inc/compatibility/class-breadcrumb-trail.php:803
+#: inc/compatibility/class-breadcrumb-trail.php:842
+#: inc/compatibility/class-breadcrumb-trail.php:869
+#: inc/compatibility/class-breadcrumb-trail.php:1212
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/compatibility/class-breadcrumb-trail.php:757
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/compatibility/class-breadcrumb-trail.php:739
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/compatibility/class-breadcrumb-trail.php:721
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/compatibility/class-breadcrumb-trail.php:278
+msgid "Week %s"
+msgstr "Tuần %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/compatibility/class-breadcrumb-trail.php:276
+msgid "Minute %s"
+msgstr "Phút %s"
+
+#. Translators: %s is the page number.
+#: inc/compatibility/class-breadcrumb-trail.php:274
+msgid "Comment Page %s"
+msgstr "Trang bình luận %s"
+
+#. Translators: %s is the page number.
+#: inc/compatibility/class-breadcrumb-trail.php:272
+msgid "Page %s"
+msgstr "Trang %s"
+
+#. Translators: %s is the search query.
+#: inc/compatibility/class-breadcrumb-trail.php:270
+msgid "Search results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/compatibility/class-breadcrumb-trail.php:268
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: inc/compatibility/class-breadcrumb-trail.php:267
+msgid "404 Not Found"
+msgstr "404 Không tìm thấy"
+
+#: inc/compatibility/class-breadcrumb-trail.php:266
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/compatibility/class-breadcrumb-trail.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Chỉ mục"
+
+#: inc/compatibility/class-breadcrumb-trail.php:264
+msgid "Browse:"
+msgstr "Duyệt:"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Chuyển tới nội dung"
+
+#: functions.php:240
+msgid "Add widgets here to show on footer 4."
+msgstr "Thêm widget hiển thị ở cuối trang 4."
+
+#: functions.php:238
+msgid "Footer 4"
+msgstr "Cuối trang 4"
+
+#: functions.php:228
+msgid "Add widgets here to show on footer 3."
+msgstr "Thêm widget hiển thị ở cuối trang 3."
+
+#: functions.php:226
+msgid "Footer 3"
+msgstr "Cuối trang 3"
+
+#: functions.php:216
+msgid "Add widgets here to show on footer 2."
+msgstr "Thêm widget hiển thị ở cuối trang 2."
+
+#: functions.php:214
+msgid "Footer 2"
+msgstr "Cuối trang 2"
+
+#: functions.php:204
+msgid "Add widgets here to show on footer 1."
+msgstr "Thêm widget hiển thị ở cuối trang 1."
+
+#: functions.php:202
+msgid "Footer 1"
+msgstr "Cuối trang 1"
+
+#: functions.php:192
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: functions.php:190
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: functions.php:56
+msgid "Header Top"
+msgstr "Top đầu trang"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Chính"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Bình luận đã bị đóng."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận trong &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Một bình luận trong &ldquo;%1$s&rdquo;"
+
+#: 404.php:22
+msgid "Go back to Home"
+msgstr "Trở lại trang chủ"
+
+#: 404.php:22
+msgid "Try searching or "
+msgstr "Thử tìm kiếm hoặc"
+
+#: 404.php:18
+msgid "Sorry, but nothing exists here."
+msgstr "Rất tiếc, không có gì ở đây."
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+msgid "Themegrill"
+msgstr "Themegrill"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/cenote/"
+msgstr "https://themegrill.com/themes/cenote/"
